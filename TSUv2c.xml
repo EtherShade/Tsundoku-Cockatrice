@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>TSU</name>
+      <longname>Tsundoku</longname>
+      <settype>Tsundoku</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Radion</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Avatar</type>
+        <maintype>Avatar</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Alignment = Sol
+2 Mana: Create a 1 endurance creature token anywhere in your front row.
+4 Mana: Put an endurance counter on each creature you control.</text>
+    </card>
+    <card>
+      <name>Conflagor</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Avatar</type>
+        <maintype>Avatar</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Alignment = Sol
+2 Mana: Conflagor deals 1 damage to target card in play or player.
+3 Mana: This turn, if a source you control would deal noncombat damage, that source deals that much damage plus 1 instead.</text>
+    </card>
+    <card>
+      <name>Divinus</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Avatar</type>
+        <maintype>Avatar</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Alignment = Sol
+2 Mana: You gain 2 life.
+3 Mana: You may destroy an asset card you control. If you do, draw two cards.</text>
+    </card>
+    <card>
+      <name>Calculox</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Avatar</type>
+        <maintype>Avatar</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Alignment = Lun
+3 Mana: Draw a card.</text>
+    </card>
+    <card>
+      <name>Aqueon</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Avatar</type>
+        <maintype>Avatar</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Alignment = Lun
+The first card each opponent plays each turn other than cards they play to their sanctum costs an additional 1 Mana to play.</text>
+    </card>
+    <card>
+      <name>Hypnor</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Avatar</type>
+        <maintype>Avatar</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Alignment = Lun
+Each player starts with an additional 10 life.
+The information victory condition is increased by 10.
+The book victory condition is increased by 5.</text>
+    </card>
+    <card>
+      <name>Celevek</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Avatar</type>
+        <maintype>Avatar</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Alignment = Astra
+3 Mana: Draw a card, then discard a card. You may play the discarded card next turn.</text>
+    </card>
+    <card>
+      <name>Opticia</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Avatar</type>
+        <maintype>Avatar</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Alignment = Astra
+3 Mana: Swap a book you control’s position with another connected card you control.</text>
+    </card>
+    <card>
+      <name>Yanite</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Avatar</type>
+        <maintype>Avatar</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Alignment = Astra
+When choosing one or more modes, you may choose an additional mode.</text>
+    </card>
+    <card>
+      <name>Gaeaea</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Avatar</type>
+        <maintype>Avatar</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Alignment = Terra
+2 Mana: Put an endurance counter on target card you control.</text>
+    </card>
+    <card>
+      <name>Harvatia</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Avatar</type>
+        <maintype>Avatar</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Alignment = Terra
+1 Mana, Destroy a card you control: Put a card that shares a type with it from your discard pile into your hand.</text>
+    </card>
+    <card>
+      <name>Venolek</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Avatar</type>
+        <maintype>Avatar</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Alignment = Terra
+3 Mana: Target creature you control gains killstrike until end of turn.
+Win Condition = Seven or more cards have left play since the end of your last turn.</text>
+    </card>
+    <card>
+      <name>Equilens</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Avatar</type>
+        <maintype>Avatar</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Alignment = Null
+3 Mana: Put an endurance counter on up to one target creature of each alignment.</text>
+    </card>
+    <card>
+      <name>Voidette</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Avatar</type>
+        <maintype>Avatar</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Alignment = Null
+Unaligned creatures enter with an additional endurance counter.</text>
+    </card>
+    <card>
+      <name>Legionary</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Warrior </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 1 Mana, 1 Sol Mana
+Endurance = 3</text>
+    </card>
+    <card>
+      <name>Diverter</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 1 Lun Mana
+Endurance = 3
+Attack Bonus = -3</text>
+    </card>
+    <card>
+      <name>Wall</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Lun Mana
+Endurance = 4</text>
+    </card>
+    <card>
+      <name>Messenger</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Scout </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 1 Astra Mana
+Endurance = 1
+Sprint 2</text>
+    </card>
+    <card>
+      <name>Spy</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Scout </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 1 Astra Mana
+Endurance = 1
+Infolink</text>
+    </card>
+    <card>
+      <name>Druid</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Druid </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 1 Terra Mana
+Endurance = 1
+Tap: Add 1 Terra Mana. Activate as a react.</text>
+    </card>
+    <card>
+      <name>Unsteady Archers</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Archer </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 1 Lun Mana
+Endurance = 1
+Reach</text>
+    </card>
+    <card>
+      <name>Archers</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Archer </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 2 Mana
+Endurance = 2
+Reach</text>
+    </card>
+    <card>
+      <name>Defense Style Swordsman</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Warrior </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 2 Mana
+Endurance = 3
+Attack Bonus  = -1</text>
+    </card>
+    <card>
+      <name>Offense Style Swordsman</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Warrior </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 2 Mana
+Endurance = 2
+Attack Bonus  = +1</text>
+    </card>
+    <card>
+      <name>Trainee</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Warrior </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 1 Sol Mana
+Endurance = 1
+Attack Bonus = + 1</text>
+    </card>
+    <card>
+      <name>New Moon Owls</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Bird  </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 1 Mana, 1 Lun Mana
+Endurance = 2
+Attack Bonus = -1
+Swift
+1 Lun Mana: Put New Moon Owls on the bottom of your deck, then search your deck for a card named Increasing Moon Owls, put it where New Moon Owls was, then shuffle.</text>
+    </card>
+    <card>
+      <name>Increasing Moon Owls</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Bird  </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 2 Mana, 1 Lun Mana
+Endurance = 3
+Attack Bonus = -1
+Swift
+1 Lun Mana: Put Increasing Moon Owls on the bottom of your deck, then search your deck for a card named Full Moon Owls, put it where Increasing Moon Owls was, then shuffle.</text>
+    </card>
+    <card>
+      <name>Full Moon Owls</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Bird  </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 3 Mana, 1 Lun Mana
+Endurance = 4
+Attack Bonus = -1
+Swift
+1 Lun Mana: Put Full Moon Owls on the bottom of your deck, then search your deck for a card named Decreasing Moon Owls, put it where Full Moon Owls was, then shuffle.</text>
+    </card>
+    <card>
+      <name>Decreasing Moon Owls</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 2 Mana, 1 Lun Mana
+Endurance = 3
+Attack Bonus = -1
+Swift
+1 Lun Mana: Put Decreasing Moon Owls on the bottom of your deck, then search your deck for two cards named New Moon Owls, reveal them, put one where Decreasing Moon Owls was and the other into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Wildebeast</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 3 Mana, 1 Terra Mana
+Endurance = 5</text>
+    </card>
+    <card>
+      <name>Dire Wolf</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 2 Mana, 1 Terra Mana
+Endurance = 3
+Attack Bonus = +1</text>
+    </card>
+    <card>
+      <name>Incinerate</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Mana, 3 Sol Mana
+Incinerate deals 3 damage to each card in play.</text>
+    </card>
+    <card>
+      <name>Wilden Berserker</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Warrior </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 1 Mana, 1 Terra Mana
+Endurance = 2
+Attack Bonus = -1
+Berserk 1</text>
+    </card>
+    <card>
+      <name>Refuse</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 2 Lun Mana
+Reactive
+Put target card on the stack into its owner’s discard pile.</text>
+    </card>
+    <card>
+      <name>Sloth Legion</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 1 Mana, 1 Terra Mana
+Endurance = 3
+Slow</text>
+    </card>
+    <card>
+      <name>Poison Adder</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Snake </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 1 Terra Mana
+Endurance = 1
+Killstrike</text>
+    </card>
+    <card>
+      <name>Tome of Knowledge</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Lun Mana
+Endurance = 2
+When Tome of Knowledge enters play, draw a card.</text>
+    </card>
+    <card>
+      <name>Tome of Diplomacy</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Sol Mana
+Endurance = 2
+When Tome of Diplomacy enters play, create a 1 endurance creature token anywhere in your front row.</text>
+    </card>
+    <card>
+      <name>Tome of Chance</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Astra Mana
+Endurance = 2
+When Tome of Chance enters play, roll a d6. If it was a 4, 5, or 6, create a token that’s a copy of Tome of Chance anywhere in your front row.</text>
+    </card>
+    <card>
+      <name>Tome of Instinct</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Terra Mana
+Endurance = 2
+When Tome of Instinct enters play, put two endurance counters on another card you control.</text>
+    </card>
+    <card>
+      <name>Tome of Terra</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Terra Mana
+Endurance = 2</text>
+    </card>
+    <card>
+      <name>Tome of Sol</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Sol Mana
+Endurance = 2</text>
+    </card>
+    <card>
+      <name>Tome of Lun</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Lun Mana
+Endurance = 2</text>
+    </card>
+    <card>
+      <name>Tome of Astra</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Astra Mana
+Endurance = 2</text>
+    </card>
+    <card>
+      <name>Tome of Null</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana
+Endurance = 2</text>
+    </card>
+    <card>
+      <name>Tome of Void</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana
+Endurance = 2
+When Tome of Void enters play, add 2 Mana.</text>
+    </card>
+    <card>
+      <name>Tome of Equilibrium</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana
+Endurance = 2
+When Tome of Equilibrium enters play, add 1 Mana of any alignment.</text>
+    </card>
+    <card>
+      <name>Old Debris</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana
+When Old Debris enters play, draw a card.
+1 Mana, Destroy Old Debris: Add 2 Mana in any combination of alignments.</text>
+    </card>
+    <card>
+      <name>Aqueon&apos;s Tome</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Lun Mana
+Endurance = 2
+At the end of each opponent’s turn, if they didn’t play any cards other than to their sanctum, draw a card.</text>
+    </card>
+    <card>
+      <name>Calculox&apos;s Tome</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Lun Mana
+Endurance = 2
+Whenever you draw a card, you gain 1 life and 1 information.</text>
+    </card>
+    <card>
+      <name>Celevek&apos;s Tome</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Astra Mana
+Endurance = 2
+Whenever you play a card for the fourth time each turn, copy that card.</text>
+    </card>
+    <card>
+      <name>Conflagor&apos;s Tome</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Sol Mana
+Endurance = 2
+When Conflagor’s Tome enters play, it deals 3 damage to target card in play or player.</text>
+    </card>
+    <card>
+      <name>Divinus&apos;s Tome</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Sol Mana
+Endurance = 2
+Whenever an asset you control leaves play, you gain 2 life and 2 information.</text>
+    </card>
+    <card>
+      <name>Equilens&apos;s Tome</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Mana
+Endurance = 2
+When Equilens’s Tome enters play, look at the top two cards of your deck. Put one of them into your hand and the other into your discard pile.</text>
+    </card>
+    <card>
+      <name>Gaeaea&apos;s Tome</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Terra Mana
+Endurance 2
+When Gaeaea’s Tome enters play, remove any number of endurance counters from cards you control. Draw half that many cards, rounded down.</text>
+    </card>
+    <card>
+      <name>Harvatia&apos;s Tome</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Terra Mana
+Endurance 2
+Whenever a card enters or leaves your discard pile, put an endurance counter on Harvatia’s Tome.
+1 Mana: Move an endurance counter from Harvatia’s Tome to another card you control.</text>
+    </card>
+    <card>
+      <name>Hypnor&apos;s Tome</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Lun Mana
+Endurance 2
+Reactive
+When Hypnor’s Tome enters, choose a card or ability on the stack. Its controller may pay 2 Mana. If they don’t, put it into its owner’s discard pile. (If it’s an ability it disappears.)</text>
+    </card>
+    <card>
+      <name>Opticia&apos;s Tome</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Astra Mana
+Endurance 2
+Book cards you play cost 1 Mana less to play.</text>
+    </card>
+    <card>
+      <name>Radion&apos;s Tome</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Sol Mana
+Endurance 2
+When Radion’s Tome enters play, put an endurance counter on each card you control.</text>
+    </card>
+    <card>
+      <name>Venolek&apos;s Tome</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Terra Mana
+Endurance 2
+1 Mana, Destroy Venolek’s Tome: Destroy another target card you control.</text>
+    </card>
+    <card>
+      <name>Voidette&apos;s Tome</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Mana
+Endurance 2
+Whenever an Unaligned creature you control enters for the second time each turn, draw a card.</text>
+    </card>
+    <card>
+      <name>Yanite&apos;s Tome</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Book</type>
+        <maintype>Book</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Astra Mana
+Endurance 2
+When Yanite’s Tome enters play, choose one —
+• Draw a card.
+• Each opponent discards a card.</text>
+    </card>
+    <card>
+      <name>Ember</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Sol Mana
+Ember deals 3 damage to target player or card in play.</text>
+    </card>
+    <card>
+      <name>Stormcaller</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 2 Mana, 1 Astra Mana
+Endurance = 2
+Whenever you play a noncreature card, put an endurance counter on Stormcaller.</text>
+    </card>
+    <card>
+      <name>Forced Recruition</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Sol Mana
+Reactive
+Create two 1 endurance creature tokens anywhere in your front row.</text>
+    </card>
+    <card>
+      <name>Rally the Many</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Sol Mana
+Create three 1 endurance creature tokens anywhere in your front row.</text>
+    </card>
+    <card>
+      <name>Informed Pyre</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Sol Mana
+Reactive
+Infolink
+Informed Pyre deals 3 damage to target card in play.</text>
+    </card>
+    <card>
+      <name>Captain</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Warrior </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 1 Mana, 1 Sol Mana
+Endurance = 1
+Attack Bonus = 1
+When Captain enters, create a 1 endurance creature token.</text>
+    </card>
+    <card>
+      <name>Scry</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Astra Mana
+Reactive
+You gain 3 information. Draw a card.</text>
+    </card>
+    <card>
+      <name>Dread Return</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 4 Mana, 1 Lun Mana
+Put target card in a discard pile into play anywhere in your front row.</text>
+    </card>
+    <card>
+      <name>Degradation</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Astra Mana
+Add 1 Mana. Draw a card.</text>
+    </card>
+    <card>
+      <name>Call the Stars</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Astra Mana
+Add 3 Astra Mana.</text>
+    </card>
+    <card>
+      <name>Watersight</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Lun Mana
+Reactive
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Thundercaller</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 1 Mana, 1 Astra Mana
+Endurance = 1
+Whenever you play your second card each turn, draw a card.</text>
+    </card>
+    <card>
+      <name>March Drummer</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Warrior </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 2 Mana, 1 Sol Mana
+Endurance = 2
+Other creatures you control get +1 Attack Bonus.</text>
+    </card>
+    <card>
+      <name>Serolens</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Avatar</type>
+        <maintype>Avatar</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Alignment = Lun
+2 Mana: Target creature you control gains infolink until end of turn.
+3 Mana: You gain 2 information.</text>
+    </card>
+    <card>
+      <name>Infosight</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Mana, 1 Lun Mana
+You gain 2 information.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Owl Queen</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Creature - Bird  </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 4 Mana, 1 Lun Mana
+Endurance = 4
+Swift
+Whenever a Bird you control enters play, move any number of endurance counters from Owl Queen to it.
+Whenever a Bird you control leaves play, put all endurance counters that were on it onto Owl Queen.
+2 Lun Mana, Remove five endurance counters from creatures you control: You gain 4 information.</text>
+    </card>
+    <card>
+      <name>Endure</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana, 1 Terra Mana
+Put three endurance counters on target creature.</text>
+    </card>
+    <card>
+      <name>Voidrot</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 4 Mana
+Destroy target creature.</text>
+    </card>
+    <card>
+      <name>Weakling</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana
+Endurance = 1
+Sprint 1</text>
+    </card>
+    <card>
+      <name>Guardian</name>
+      <set rarity="common">TSU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Mana
+Endurance = 2
+Attack Bonus = -2</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
