@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Apr 11 15:15:06 2025</lastLoadedTimestamp>
     <deckname>TSU Lun Starter</deckname>
     <bannerCard providerId=""></bannerCard>
     <comments></comments>
@@ -22,5 +22,7 @@
         <card number="4" name="Hypnor's Tome" setShortName="TSU"/>
         <card number="4" name="Diverter" setShortName="TSU"/>
         <card number="4" name="Dread Return" setShortName="TSU"/>
+        <card number="4" name="Voidrot" setShortName="TSU"/>
+        <card number="4" name="Archers" setShortName="TSU"/>
     </zone>
 </cockatrice_deck>
